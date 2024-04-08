@@ -22,6 +22,7 @@ Contato
 Se você compartilha interesses similares ou está interessado em colaborar em projetos, sinta-se à vontade para entrar em contato comigo!
 
 📧 Email: anam7615@gmail.com
+
 🌐 LinkedIn: www.linkedin.com/in/gabrielgadelha-ti
 
 Estou animado para fazer parte de uma comunidade vibrante de desenvolvedores e tecnólogos, e mal posso esperar para ver o que o futuro reserva!
