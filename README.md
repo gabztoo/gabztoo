@@ -17,6 +17,7 @@ Meu objetivo é não apenas me tornar um desenvolvedor de software qualificado, 
 Estou ansioso para aplicar minhas habilidades e conhecimentos em projetos desafiadores que impulsionem o progresso tecnológico e tragam soluções criativas para problemas do mundo real.
 
 Interesses:
+
 Desenvolvimento de Software
 
 Programação Web
