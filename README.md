@@ -18,7 +18,9 @@ Estou ansioso para aplicar minhas habilidades e conhecimentos em projetos desafi
 
 Interesses:
 Desenvolvimento de Software
+
 Programação Web
+
 Inteligência Artificial
 
 
