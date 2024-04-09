@@ -3,6 +3,7 @@ Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) com uma p
 com o objetivo principal de me tornar um desenvolvedor de software destacado, capaz de criar soluções inovadoras.
 
 Sobre Mim
+
 🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 💻 Tenho uma forte paixão por tecnologia e descobrir como funcionam as coisas desde cedo.
 🚀 Estou sempre em busca de aprender e me desafiar com novas tecnologias e conceitos.
