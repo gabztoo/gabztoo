@@ -2,7 +2,7 @@ Perfil
 Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) com uma paixão inabalável pela tecnologia desde jovem. Estou constantemente buscando ampliar meus conhecimentos teóricos e práticos,
 com o objetivo principal de me tornar um desenvolvedor de software destacado, capaz de criar soluções inovadoras.
 
-Sobre Mim
+Sobre Mim:
 
 🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
