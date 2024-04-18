@@ -10,7 +10,6 @@ Sobre Mim:
 
 🚀 Estou sempre em busca de aprender e me desafiar com novas tecnologias e conceitos.
 
-🎮 Nos momentos de lazer, gosto de relaxar jogando jogos que desafiam a mente e também alguns jogos casuais.
 
 Objetivos:
 Meu objetivo é não apenas me tornar um desenvolvedor de software qualificado, mas também contribuir para um ambiente de trabalho dinâmico e inovador. 
