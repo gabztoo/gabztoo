@@ -7,6 +7,7 @@ Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor 
 - 💬 Pergunte-me sobre Back-end e sobre QA.
 - 📫 Como me encontrar:
        linkedin.com/in/gabrielgadelha-ti/
+  
        anam7615@gmail.com
   
 
