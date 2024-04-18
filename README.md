@@ -1,40 +1,20 @@
-Perfil
-Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) com uma paixão inabalável pela tecnologia desde jovem. Estou constantemente buscando ampliar meus conhecimentos teóricos e práticos,
-com o objetivo principal de me tornar um desenvolvedor de software destacado, capaz de criar soluções inovadoras.
+# Olá! 👋
 
-Sobre Mim:
+Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor apaixonado por criar coisas incríveis.
 
-🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+## Sobre mim
+- 🌱 Atualmente estou aprendendo [insira o que você está aprendendo].
+- 💬 Pergunte-me sobre [insira os tópicos sobre os quais você gosta de conversar].
+- 📫 Como me encontrar: [insira seus links de mídia social, site pessoal, etc.].
 
-💻 Tenho uma forte paixão por tecnologia e descobrir como funcionam as coisas desde cedo.
+## GitHub Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabztoo&show_icons=true&theme=radical)
 
-🚀 Estou sempre em busca de aprender e me desafiar com novas tecnologias e conceitos.
-
-
-Objetivos:
-Meu objetivo é não apenas me tornar um desenvolvedor de software qualificado, mas também contribuir para um ambiente de trabalho dinâmico e inovador. 
-Estou ansioso para aplicar minhas habilidades e conhecimentos em projetos desafiadores que impulsionem o progresso tecnológico e tragam soluções criativas para problemas do mundo real.
-
-Interesses:
-
-Desenvolvimento de Software
-
-Programação Web
-
-Inteligência Artificial
-
-
-Contato
-Se você compartilha interesses similares ou está interessado em colaborar em projetos, sinta-se à vontade para entrar em contato comigo!
-
-📧 Email: anam7615@gmail.com
-
-🌐 LinkedIn: www.linkedin.com/in/gabrielgadelha-ti
-
-Estou animado para fazer parte de uma comunidade vibrante de desenvolvedores e tecnólogos, e mal posso esperar para ver o que o futuro reserva!
-
-
-
-
-
-
+## Habilidades
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
