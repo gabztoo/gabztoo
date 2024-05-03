@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor apaixonado por criar coisas incríveis.
+Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor estudando Back-end com foco em QA e testes manuais e automatizados.
 
 ## Sobre mim
 - 🌱 Atualmente estou aprendendo Python, Java e C++.
