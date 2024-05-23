@@ -8,8 +8,8 @@ Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor 
 - 📫 Como me encontrar:
 
 
-       linkedin.com/in/gabrielgadelha-ti/
-        anam7615@gmail.com
+  linkedin.com/in/gabrielgadelha-ti/
+  anam7615@gmail.com
 
 ## GitHub Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabztoo&show_icons=true&theme=radical)
