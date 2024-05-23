@@ -6,8 +6,10 @@ Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor 
 - 🌱 Atualmente estou aprendendo Python, Java e C++.
 - 💬 Pergunte-me sobre Back-end e sobre QA.
 - 📫 Como me encontrar:
+
+
        linkedin.com/in/gabrielgadelha-ti/
-       | anam7615@gmail.com
+        anam7615@gmail.com
 
 ## GitHub Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabztoo&show_icons=true&theme=radical)
