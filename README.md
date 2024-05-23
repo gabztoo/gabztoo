@@ -9,6 +9,7 @@ Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor 
 
 
   linkedin.com/in/gabrielgadelha-ti/
+
   anam7615@gmail.com
 
 ## GitHub Estatísticas
