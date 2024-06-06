@@ -2,15 +2,27 @@
 
 Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor estudando Back-end com foco em QA e testes manuais e automatizados.
 
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7bOFah0RaBe05UCWIn5it_WsHQBROYsxVA&s"/>](https://https://www.jabil.com/)
+
+**Menor Aprendiz - Qualidade** \
+[**Jabil**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `C++`, `C`, `CSS`, `HTML`, `JS`\
+<br/>
+
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gabrielgadelha-ti/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
 ## Sobre mim
 - 🌱 Atualmente estou aprendendo Python, Java e C++.
 - 💬 Pergunte-me sobre Back-end e sobre QA.
-- 📫 Como me encontrar:
-
-
-  linkedin.com/in/gabrielgadelha-ti/
-
+- 📩 Contato:
   anam7615@gmail.com
+- 🌐 Site:
+  gabcurriculo.vercel.app
 
 ## GitHub Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabztoo&show_icons=true&theme=radical)
