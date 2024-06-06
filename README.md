@@ -21,8 +21,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gabrielgadelha-
 - 💬 Pergunte-me sobre Back-end e sobre QA.
 - 📩 Contato:
   anam7615@gmail.com
-- 🌐 Site:
-  gabcurriculo.vercel.app
+- 🌐 Site: https://gabcurriculo.vercel.app/
 
 ## GitHub Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabztoo&show_icons=true&theme=radical)
