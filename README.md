@@ -9,7 +9,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7bOFah0RaBe05UCWIn5it_WsHQBROYsxVA&s"/>](https://https://www.jabil.com/)
 
 **Menor Aprendiz - Qualidade** \
-[**Jabil**](https://www.spacex.com/) • Full-time \
+[**Jabil**](https://www.jabil.com/) • Half-time \
 Linguagens & Tecnologias: `Python`, `C++`, `C`, `CSS`, `HTML`, `JS`\
 <br/>
 
