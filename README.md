@@ -29,6 +29,8 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gabrielgadelha-
 ## Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabztoo&layout=compact&theme=radical)
 
+<img src="https://raw.githubusercontent.com/Gabztoo/Gabztoo/output/snake.svg" alt="Snake animation" />
+
 ## Habilidades
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
