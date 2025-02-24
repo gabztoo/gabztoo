@@ -6,10 +6,10 @@ Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor 
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7bOFah0RaBe05UCWIn5it_WsHQBROYsxVA&s"/>](https://https://www.jabil.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7bOFah0RaBe05UCWIn5it_WsHQBROYsxVA&s](https://hospitalsantajulia.com.br/wp-content/uploads/2023/05/hsp.png)"/>]([https://https://www.jabil.com/](https://hospitalsantajulia.com.br/))
 
-**Menor Aprendiz - Qualidade** \
-[**Jabil**](https://www.jabil.com/) • Half-time \
+**Suporte TI - Tecnologia** \
+[**Hospital Santa Julia**]([https://www.jabil.com/](https://hospitalsantajulia.com.br/)) • Half-time \
 Linguagens & Tecnologias: `Python`, `C++`, `C`, `CSS`, `HTML`, `JS`\
 <br/>
 
