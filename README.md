@@ -6,7 +6,7 @@ Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor 
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7bOFah0RaBe05UCWIn5it_WsHQBROYsxVA&s](https://hospitalsantajulia.com.br/wp-content/uploads/2023/05/hsp.png)"/>](https://hospitalsantajulia.com.br/))
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="(https://hospitalsantajulia.com.br/wp-content/uploads/2023/05/hsp.png)"/>](https://hospitalsantajulia.com.br/))
 
 **Suporte TI - Tecnologia** \
 [**Hospital Santa Julia**]([https://www.jabil.com/](https://hospitalsantajulia.com.br/)) • Half-time \
