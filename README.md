@@ -9,8 +9,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Bringel" src="https://gbringel.com/wp-content/uploads/2024/05/imagem_2024-05-24_144334491.png"/>](https://gbringel.com/)
 
 **Suporte TI - Tecnologia** \
-[**Grupo Bringel**]([https://www.jabil.com/](https://hospitalsantajulia.com.br/)) • Half-time \
-Linguagens & Tecnologias: `Python`, `C++`, `C`, `CSS`, `HTML`, `JS`\
+[**Grupo Bringel**]([https://www.jabil.com/](https://hospitalsantajulia.com.br/)) • Full-time \
+Linguagens & Tecnologias: `Python`, `C++`, `C`, `CSS`, `HTML`, `JS`, `Redes`, `Endpoint`\\
 <br/>
 
 
