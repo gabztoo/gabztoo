@@ -17,8 +17,8 @@ Linguagens & Tecnologias: `Python`, `C++`, `C`, `CSS`, `HTML`, `JS`\
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gabrielgadelha-ti/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ## Sobre mim
-- 🌱 Atualmente estou aprendendo Python, Java e C++.
-- 💬 Pergunte-me sobre Back-end e sobre QA.
+- 🌱 Cybersegurança, suporte, SOC, C++ e python.
+- 💬 Pergunte-me sobre Cybersegurança e sobre SOC.
 - 📩 Contato:
   anam7615@gmail.com
 - 🌐 Site: https://gabcurriculo.vercel.app/
