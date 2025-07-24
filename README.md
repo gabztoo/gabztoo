@@ -6,7 +6,7 @@ Meu nome é [Gabriel Gadelha](https://github.com/gabztoo). Sou um desenvolvedor 
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Grupo Bringel" src="https://images.sympla.com.br/660aae4b59354.png"/>](https://gbringel.com/)
+[<img align="left" height="94px" width="94px" alt="Bringel" src="https://images.sympla.com.br/660aae4b59354.png"/>](https://gbringel.com/)
 
 **Suporte TI - Tecnologia** \
 [**Hospital Santa Julia**]([https://www.jabil.com/](https://hospitalsantajulia.com.br/)) • Half-time \
