@@ -28,7 +28,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gabrielgadelha-
 ---
 
 ## Sobre mim
-- 🚀 Foco em **JavaScript, automação, integrações e APIs**
+- 🚀 Foco em **Aplicações Fullstack, automação, integrações e APIs**
 - 🧠 Interesse em **IA aplicada a produto**, sistemas omnichannel e backend
 - 🛠️ Autodidata, com mentalidade de **entrega e melhoria contínua**
 - 💬 Pergunte-me sobre **JavaScript, Node.js, APIs, automação e IA**
