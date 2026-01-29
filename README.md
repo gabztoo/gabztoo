@@ -31,7 +31,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gabrielgadelha-
 - 🚀 Foco em **Aplicações Fullstack, automação, integrações e APIs**
 - 🧠 Interesse em **IA aplicada a produto**, sistemas omnichannel e backend
 - 🛠️ Autodidata, com mentalidade de **entrega e melhoria contínua**
-- 💬 Pergunte-me sobre **JavaScript, Node.js, APIs, automação e IA**
 - 📩 Contato:  
   anam7615@gmail.com
 - 🌐 Site / Portfólio: https://gabcurriculo.vercel.app/
