@@ -14,7 +14,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Grupo Bringel" src="https://gbringel.com/wp-content/uploads/2024/05/imagem_2024-05-24_144334491.png"/>](https://hospitalsantajulia.com.br/)
 
-**Auxiliar de Desenvolvimento de Software** \
+**Desenvolvimento de Software Junior** \
 [**Grupo Bringel**](https://hospitalsantajulia.com.br/) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Node.js`, `Python`, `Django`, `Angular`, `PostgreSQL`, `JWT`, `APIs REST` \
 <br/>
