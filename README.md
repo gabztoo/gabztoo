@@ -1,35 +1,90 @@
 # Gabriel Gadelha
 
-Full-Stack Developer focused on Python, Django and TypeScript applications.
+Full-Stack Developer focused on building scalable web applications, REST APIs and AI-driven systems.
 
-I build scalable backend services, REST APIs and modern web interfaces.
+I specialize in Python, Django and TypeScript ecosystems, developing production-ready backend services and modern web interfaces.
+
+Currently building systems involving AI orchestration, serverless architectures and modern web platforms.
+
+---
 
 ## Tech Stack
 
-Backend
+### Backend
 - Python
 - Django
 - Django REST Framework
 - Node.js
+- REST API design
 
-Frontend
+### Frontend
 - Angular
 - React
 - TypeScript
 - TailwindCSS
+- HTML5 / CSS3
 
-Databases
+### Databases
 - PostgreSQL
 - SQLite
-- Firebase
+- Firebase Firestore
+
+### Tools
+- Git
+- Docker
+- Postman
+- Swagger / OpenAPI
+
+---
 
 ## Featured Projects
 
-AI Gateway (Perpetuo)  
-Platform that orchestrates multiple LLM providers with routing based on cost and latency.
+### Perpetuo
+AI gateway platform that orchestrates multiple LLM providers with intelligent routing based on cost, latency and task complexity.
 
-Football Tournament Manager  
-Progressive Web Application for managing amateur football competitions.
+Key features:
 
-AI Support Chatbot  
-Semantic search chatbot using Llama2, LangChain and FAISS.
+- Multi-provider LLM orchestration
+- Cost-aware model routing
+- Failover between providers
+- BYOK architecture
+
+---
+
+### Copa Baixada
+Progressive Web Application used to manage amateur football tournaments.
+
+Features:
+
+- Team and match management
+- Role-based access control
+- Serverless backend with Firebase
+- Offline support via PWA
+
+---
+
+### AI Technical Support Chatbot
+AI chatbot built to automate level-1 technical support responses.
+
+Technologies used:
+
+- Llama2
+- LangChain
+- FAISS
+- Streamlit
+
+---
+
+## Interests
+
+- AI infrastructure
+- Backend architecture
+- API design
+- Distributed systems
+
+---
+
+## Contact
+
+Email: macae092@gmail.com  
+LinkedIn: https://linkedin.com/in/gabrielgadelha-dev
